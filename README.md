@@ -44,6 +44,6 @@ This project was created to practice:
 ---
 
 ## Screenshot
-<img width="800" height="866" alt="Screenshot 2026-04-27 113930" src="https://github.com/user-attachments/assets/80279f06-ed3e-4f75-9720-a391f8d24055" />
+<img width="1901" height="866" alt="Screenshot 2026-04-27 113930" src="https://github.com/user-attachments/assets/80279f06-ed3e-4f75-9720-a391f8d24055" />
 
 
